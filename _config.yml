@@ -18,29 +18,28 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : "https://blog.teamgrit.kr"
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : TeamGRIT,Inc
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  혁신의 기술을 선도하다, (주)팀그릿
 
 
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
-
+timezone: "Asia/Seoul"
 
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
+  type      : "organization"
+  name      : TeamGRIT, Inc.
+  url       : "https://blog.teamgrit.kr"
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  bio       : "혁신의 기술을 선도하다, (주)팀그릿"
+  email     : "admin@teamgrit.kr"
+  facebook  : "teamgrit.kr"
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
@@ -55,7 +54,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: teamgrit-tech/teamgrit-tech.github.io
 repository_tree: master
 
 
