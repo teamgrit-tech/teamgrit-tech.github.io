@@ -20,7 +20,7 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : "https://blog.teamgrit.kr"
 baseurl : # does not include hostname
-title   : TeamGRIT,Inc
+title   : TeamGRIT 팀그릿
 description: > # this means to ignore newlines until "Language & timezone"
   혁신의 기술을 선도하다, (주)팀그릿
 
