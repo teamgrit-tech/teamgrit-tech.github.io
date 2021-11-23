@@ -39,6 +39,6 @@ tags: "Hello"
 ## 커밋 규칙
 커밋 규칙은 간단합니다. 커밋 권한이 없는 경우 요청 해 주세요.
 - Branch를 생성해 주세요.
-    - Branch 이름의 경우 각자의 성함 또는 닉네임으로 설정 해 주세요.
+    - Branch 이름의 경우 성함 또는 닉네임으로 설정 해 주세요.
 - 업로드 하고 싶으신 게시물을 작성 후 생성해 주신 Branch 커밋 해 주세요.
 - 커밋 메시지는 되도록이면 [**Conventinal Commit Messages**](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)를 참고하셔서 커밋 해 주세요.
