@@ -22,7 +22,7 @@ url     : "https://blog.teamgrit.kr"
 baseurl : # does not include hostname
 title   : TeamGRIT 팀그릿
 description: > # this means to ignore newlines until "Language & timezone"
-  혁신의 기술을 선도하다, (주)팀그릿
+  미래 스마트 단말을 위한 커뮤니케이션 서비스 기업, 팀그릿
 
 
 ## => Language and Timezone
@@ -37,7 +37,7 @@ author:
   name      : TeamGRIT, Inc.
   url       : "https://blog.teamgrit.kr"
   avatar    : # path or url of avatar image (square)
-  bio       : "혁신의 기술을 선도하다, (주)팀그릿"
+  bio       : "미래 스마트 단말을 위한 커뮤니케이션 서비스 기업, 팀그릿"
   email     : "admin@teamgrit.kr"
   facebook  : "teamgrit.kr"
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
