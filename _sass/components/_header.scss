@@ -11,6 +11,9 @@
       @include flex-direction(column);
     }
   }
+  .header_title {
+    font-weight: bold;
+  }
 }
 
 .header--dark {
