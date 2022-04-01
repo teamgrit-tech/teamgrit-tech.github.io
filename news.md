@@ -14,3 +14,6 @@ title: News
 - [팀그릿·아이들, 자율주행 이동로봇용 초저지연 미디어 사업 맞손](http://www.datanet.co.kr/news/articleView.html?idxno=155237)
 - ['5G 특화망' 올라탄 스타트업…AR·VR산업 키운다](https://news.mt.co.kr/mtview.php?no=2021022311552266234)
 - [[스타트업 인터뷰] 김기령 팀그릿 대표 “영상 기반 IoT 웹 플랫폼 선두 주자 될 것”](https://www.etoday.co.kr/news/view/2006233)
+- [日 교세라도 반한 韓 스타트업...지구 반대편서 실시간 로봇제어](https://news.mt.co.kr/mtview.php?no=2022033017531463170)
+- [국내 ICT 기업, 국제 합작법인 설립 해외시장 공략](http://www.consumertimes.kr/44801)
+- [국내 ICT 기업, 국제 합작법인 설립 통해 해외시장 공략한다](https://www.boannews.com/media/view.asp?idx=105137)
