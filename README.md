@@ -7,7 +7,13 @@
 - **디자인 및 레이아웃 이미지 수정 시 로컬에서 테스트 후 커밋 해 주세요!**
     - svg 관련하여서 파일이 없는 경우 실행 되지 않는 경우가 있습니다.
 
+
 ## 작성 방법
+### 이미지 추가 방법
+1. `_posts/images/<업로드한 날짜>/<파일명>`에 이미지를 추가하여 주세요.
+2. [`raw.githack.com`](https://raw.githack.com/)를 통해서 문서에 추가하여 주세요.
+    - Ex. `https://rawcdn.githack.com/teamgrit-tech/teamgrit-tech.github.io/95d6101673d2501a6bd38b43ce2cb8a8e447e107/_posts/images/01.png`
+
 ### 포스트 생성하기
 ```txt
 YEAH-MONTH-DAY-title.md
