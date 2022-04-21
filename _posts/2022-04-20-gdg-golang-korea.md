@@ -11,7 +11,8 @@ key: article-post-gdg-golang-korea
 2022년 3월 31일 [GDG Golang Korea Go1.18 릴리즈 파티](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-golang-118-release-party/)에서 **"Go와 FFmpeg를 이용한 영상 처리 그리고 AWS S3 활용하기"**라는 주제로 발표를 진행하였습니다. 팀그릿에서 어떻게 미디어 스토리지를 개발하였는지를 중점으로 이야기 하였습니다.  
 기술과 관련된 발표가 처음이었고 많은 부분이 매끄럽진 않지만 재밌게 발표하였습니다.  
 
-<img src="https://rawcdn.githack.com/teamgrit-tech/teamgrit-tech.github.io/ff3324efb08d786fdff2844d85c0ffc99145e660/_posts/images/2022-04-01/00.png" width="500" height="500">
+<img src="https://rawcdn.githack.com/teamgrit-tech/teamgrit-tech.github.io/ce3b3ecf2828164a7b322c6d9e35fb93265b7c15/_posts/images/2022-04-20/275673051_1705840016432289_8512305056845779768_n.png" width="500" height="500">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W-VWcP_vnZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf17q9nxK_SaRP_mgQFEyFIZ9rDSDg6PnrhhXJ_aXZEM-_xryLF-8KbWMXW7Ngug/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
